@@ -9,6 +9,6 @@
   },
   "scripts": {
     "dev": "nodemon",
-    "starts": "node index.js"
+    "start": "node index.js"
   }
 }
